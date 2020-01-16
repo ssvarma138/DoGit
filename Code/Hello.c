@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main(){
-    printf("Hello World");
+  int doSomething=100;  
+  printf("Hello World");
+  printf("Welcome" );
 
 }
